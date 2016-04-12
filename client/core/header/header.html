@@ -1,10 +1,78 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-  <meta charset="UTF-8">
-  <title></title>
-</head>
-<body>
+<template name="header">
 
-</body>
-</html>
+  <div class="header">
+    <!-- START MOBILE CONTROLS -->
+    <!-- LEFT SIDE -->
+    <div class="pull-left full-height visible-sm visible-xs">
+      <!-- START ACTION BAR -->
+      <div class="sm-action-bar">
+        <a href="#" class="btn-link toggle-sidebar" data-toggle="sidebar">
+          <span class="icon-set menu-hambuger"></span>
+        </a>
+      </div>
+      <!-- END ACTION BAR -->
+    </div>
+    <!-- RIGHT SIDE -->
+    <div class="pull-right full-height visible-sm visible-xs">
+      <!-- START ACTION BAR -->
+      <div class="sm-action-bar">
+        <a href="#" class="btn-link dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span class="thumbnail-wrapper d32 circular inline m-t-5">
+          </span>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu2">
+          <li class="no-padding">
+            <a href="#" xaction="change_password">
+              <span class="pull-right text-color-blue">Tukar Kata Laluan <i class="pg-settings_small"></i></span>
+            </a>
+          </li>
+          <li class="bg-master-lighter no-padding">
+            <a href="" class="logout clearfix">
+              <span class="pull-right text-color-blue">Log Keluar <i class="pg-power"></i></span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- END ACTION BAR -->
+    </div>
+    <!-- END MOBILE CONTROLS -->
+    <div class=" pull-left sm-table">
+      <div class="header-inner">
+        <div class="brand inline">
+          <img src="/images/logo_font_white_mobile.png" alt="logo" data-src="/images/logo_font_white_mobile.png" data-src-retina="/images/logo_font_white_mobile.png" width="129" height="38">
+        </div>
+        <!-- BEGIN NOTIFICATION DROPDOWN -->
+
+        <!-- END NOTIFICATION DROPDOWN -->
+        <img src="/images/header_title.png" alt="logo" data-src="/images/header_title.png" class="hidden-sm hidden-xs" data-src-retina="/images/header_title.png">
+
+      </div>
+    </div>
+    <div class=" pull-right">
+      <!-- START User Info-->
+      <div class="visible-lg visible-md m-t-10">
+        <div class="pull-left p-r-10 p-t-10 fs-16">
+          <span class="semi-bold">{{#if current_user}}{{current_user.name}}{{/if}}</span>
+        </div>
+        <div class="dropdown pull-right">
+          <button class="profile-dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="thumbnail-wrapper d32 circular inline m-t-5">
+        </span>
+          </button>
+          <ul class="dropdown-menu profile-dropdown" role="menu">
+            <li><a href="#" xaction="change_password"><i class="pg-settings_small"></i> Tukar Kata Laluan</a>
+            </li>
+            <li class="bg-master-lighter">
+              <a href="" class="logout clearfix">
+                <span class="pull-left">Log Keluar</span>
+                <span class="pull-right"><i class="pg-power"></i></span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- END User Info-->
+    </div>
+  </div>
+
+</template>

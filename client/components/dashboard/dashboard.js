@@ -1,3 +1,5 @@
-/**
- * Created by tunamin on 31/03/2016.
- */
+DashboardCtrl = RouteController.extend({
+
+	template : 'Dashboard'
+
+})

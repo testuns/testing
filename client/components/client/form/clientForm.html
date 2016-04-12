@@ -1,10 +1,64 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-  <meta charset="UTF-8">
-  <title></title>
-</head>
-<body>
+<template name="LookupAddClient">
 
-</body>
-</html>
+
+
+  <div style="background-color: #c0c0c0" class="modal modal-green-dark fade fill-in" id="LookupAddClient" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content" >
+        <div class="modal-header p-t-0">
+          <h5 class="text-left p-b-5"><label class="semi-bold">Register Client</label></h5>
+        </div>
+        <div class="modal-body ">
+          <form role="form">
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="form-group text-center">
+                  <label>
+                    <img alt="test" class="img-circle m-b b-a b-3x b-light ng-scope" src="assets/images/avatars/avatar0.png">
+                    <input type="file" name="userImageFile" class="hide" accept="image/*" required="" data-bv-notempty="true" data-fv-notempty-message="Sila pilih gambar" data-fv-callback="true" data-fv-callback-message="Hanya gambar sahaja" data-fv-callback-callback="uploadPhotos" data-fv-field="userImageFile">
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="form-group">
+                  <label>Name</label>
+                  <input type="text" name="name" class="form-control input-sm " value="" placeholder="Nama">
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="form-group">
+                  <label>Website</label>
+                  <input type="text" name="name" class="form-control input-sm " value="" placeholder="www.kanntronics.com">
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="form-group">
+                  <label>Description</label>
+                  <textarea name="noted" rows="4" class="form-control input-sm " placeholder="Catatan"></textarea>
+                </div>
+              </div>
+            </div>
+
+						<span class="pull-right m-t-xs m-b-sm">
+
+							<button type="submit" class="btn btn-success text-uc m-t-n-xs">Daftar</button>
+							<button type="button" class="btn btn-danger text-uc m-t-n-xs" data-dismiss="modal">Batal</button>
+
+						</span>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</template>

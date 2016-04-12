@@ -1,10 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-  <meta charset="UTF-8">
-  <title></title>
-</head>
-<body>
+<template name="sidebar">
 
-</body>
-</html>
+  <div class="page-sidebar">
+    <div id="appMenu" class="from-top">
+    </div>
+
+    <div class="sidebar-header">
+      <img src="/images/logo_font_white.png" alt="logo" class="brand" data-src="/images/logo_font_white.png" data-src-retina="/images/logo_2x_font_white.png" width="190">
+      <div class="sidebar-header-controls">
+        <button data-toggle-pin="sidebar" class="btn btn-link visible-lg-inline" type="button"><i class="fa fs-12"></i>
+        </button>
+      </div>
+    </div>
+
+
+    <div class="sidebar-profile clearfix hidden-xs">
+    <div class="dropdown">
+      <a href="" class="dropdown-toggle" data-toggle="dropdown">
+          <span class="profile-avatar thumb avatar pull-left m-r-15">
+            <img src="{{#if current_user.avatar}}/images/avatars/{{current_user.avatar}}{{else}}/images/avatars/avatar0.png{{/if}}" class="dker" alt="...">
+            <i class="on md b-black"></i>
+          </span>
+          <span class="clear profile-text">
+            <span class="block m-t-xs">
+              <strong class="text-lt">{{#if current_user}}{{current_user.name}}{{/if}}</strong>
+              <b class="caret"></b>
+            </span>
+            <span class="text-muted text-xs block">{{#if current_user}}{{current_user.designation}}{{/if}}</span>
+          </span>
+      </a>
+    </div>
+  </div>
+
+    <div class="sidebar-menu">
+
+    {{> nav}}
+
+    <div class="clearfix"></div>
+  </div>
+
+  </div>
+
+
+</template>

@@ -15,8 +15,6 @@ Package.onUse(function(api) {
   api.use(['ecmascript','less']);
   api.addFiles('pages-frontend.js');
 
-	api.use('jquery', 'client');
-
 	api.addFiles('lib/pages.frontend.js', 'client');
 	api.addFiles('lib/pages.frontend.min.js', 'client');
 	api.addFiles('lib/pages.image.loader.js', 'client');

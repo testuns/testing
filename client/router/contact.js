@@ -1,3 +1,4 @@
-/**
- * Created by tunamin on 01/04/2016.
- */
+Router.route('/contact', {
+	name: 'contact',
+	controller: 'ContactCtrl'
+})

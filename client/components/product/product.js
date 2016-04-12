@@ -1,3 +1,5 @@
-/**
- * Created by tunamin on 01/04/2016.
- */
+ProductCtrl = RouteController.extend({
+
+	template : 'Product'
+
+})
