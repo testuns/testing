@@ -2,238 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbaa2aab-6f14-4e23-991b-7a5a89e78062" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/montserrat/Montserrat-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/montserrat/Montserrat-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/montserrat/Montserrat-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/montserrat/Montserrat-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Bold/OpenSans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Bold/OpenSans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Bold/OpenSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Bold/OpenSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Bold/OpenSans-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Bold/OpenSans-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Bold/OpenSans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Bold/OpenSans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/BoldItalic/OpenSans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/BoldItalic/OpenSans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/BoldItalic/OpenSans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/BoldItalic/OpenSans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBold/OpenSans-ExtraBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBold/OpenSans-ExtraBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBold/OpenSans-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBold/OpenSans-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Italic/OpenSans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Italic/OpenSans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Italic/OpenSans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Italic/OpenSans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Italic/OpenSans-Italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Italic/OpenSans-Italic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Italic/OpenSans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Italic/OpenSans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Light/OpenSans-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Light/OpenSans-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Light/OpenSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Light/OpenSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Light/OpenSans-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Light/OpenSans-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Light/OpenSans-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Light/OpenSans-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/LightItalic/OpenSans-LightItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/LightItalic/OpenSans-LightItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/LightItalic/OpenSans-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/LightItalic/OpenSans-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/LightItalic/OpenSans-LightItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/LightItalic/OpenSans-LightItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/LightItalic/OpenSans-LightItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/LightItalic/OpenSans-LightItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Regular/OpenSans-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Regular/OpenSans-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Regular/OpenSans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Regular/OpenSans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Regular/OpenSans-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Regular/OpenSans-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Regular/OpenSans-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Regular/OpenSans-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Semibold/OpenSans-Semibold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Semibold/OpenSans-Semibold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Semibold/OpenSans-Semibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Semibold/OpenSans-Semibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Semibold/OpenSans-Semibold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Semibold/OpenSans-Semibold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Semibold/OpenSans-Semibold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Semibold/OpenSans-Semibold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/pages-icon/Pages-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/pages-icon/Pages-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/pages-icon/Pages-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/pages-icon/Pages-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/pages-icon/Pages-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/pages-icon/Pages-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/avatars/avatar0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/foto1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/foto2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/foto3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Bold/OpenSans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Bold/OpenSans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/BoldItalic/OpenSans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/BoldItalic/OpenSans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBold/OpenSans-ExtraBold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBold/OpenSans-ExtraBold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Italic/OpenSans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Italic/OpenSans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Light/OpenSans-Light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Light/OpenSans-Light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/LightItalic/OpenSans-LightItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/LightItalic/OpenSans-LightItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Regular/OpenSans-Regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Regular/OpenSans-Regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/Semibold/OpenSans-Semibold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/Semibold/OpenSans-Semibold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/pages-icon/Pages-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/pages-icon/Pages-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/jquery-appear/appear.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/client/client.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/client/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/router/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/client/form/clientForm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/client/form/clientform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/contact/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/contact/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/router/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/src/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/dashboard/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/dashboard/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/router/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/demo.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/device.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/font.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/main/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/form_elements.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/gallery.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/header/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/header/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/hover.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/animateNumber/jquery.animateNumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/animateNumber/jquery.animateNumber.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/animateNumber/jquery.animateNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/jquery-appear/jquery.appear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/layouts/master_layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/layouts/master_layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/misc.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/montserrat/montserrat-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/montserrat/montserrat-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/fonts/montserrat/montserrat-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/montserrat/montserrat-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/main/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/notifications.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/pace/pace-theme-flash.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/pace/pace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/pages-frontend-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/pages-frontend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/css/pages-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/pages-icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/css/pages-icons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/css/pages.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/lib/pages.frontend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/src/pages.frontend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/lib/pages.frontend.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/lib/pages.image.loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/pages.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stlylesheets/css/pages.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/lib/pages.social.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/lib/pages.social.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/pricing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/product/product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/product/product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/router/product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/progress_indicators.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/router/routers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/sidebar/sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/core/sidebar/sidebar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/social.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/support/support.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/support/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/router/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/css/swiper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/maps/swiper.jquery.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.jquery.umd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/maps/swiper.jquery.umd.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.jquery.umd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/swiper.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/maps/swiper.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/swiper/js/swiper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/tabs_accordian.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/abstract/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/calendar/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/corporate/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/default/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/retro/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/simple/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/unlax/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/vibes/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/typography.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/abstract/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/calendar/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/corporate/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/default/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/retro/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/simple/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/unlax/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/themes/vibes/var.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/velocity/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/plugins/velocity/velocity.ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/modules/z_index.less" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testing.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testing.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/.finished-upgraders" afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/app.html" afterPath="$PROJECT_DIR$/client/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/collections/client/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/publish/client/client.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/gallery_hero_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/header_title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logo_font_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logo_font_white_mobile.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/router/client.js" afterPath="$PROJECT_DIR$/client/router/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/client/form/clientForm.html" afterPath="$PROJECT_DIR$/client/components/client/form/clientForm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/client/form/clientform.js" afterPath="$PROJECT_DIR$/client/components/client/form/clientform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/development/env.sh" afterPath="$PROJECT_DIR$/config/development/env.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/release" afterPath="$PROJECT_DIR$/.meteor/release" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/development/settings.json" afterPath="$PROJECT_DIR$/config/development/settings.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -259,24 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="client.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/client/client.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.666666" vertical-offset="216" max-vertical-offset="1386">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clientForm.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="clientForm.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/client/form/clientForm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021301774" vertical-offset="54" max-vertical-offset="1242">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="1206">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
@@ -284,30 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/core/main/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="414">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master_layout.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/core/layouts/master_layout.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="master_layout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/core/layouts/master_layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+            <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
               <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding />
             </state>
@@ -317,22 +63,8 @@
       <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/dashboard/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="252">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
               <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-              <folding>
-                <element signature="tag#section#0;tag#template#0" expanded="false" />
-                <element signature="tag#section#1;tag#template#0" expanded="false" />
-                <element signature="tag#section#2;tag#template#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/components/client/client.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="744" max-vertical-offset="1566">
-              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -341,8 +73,68 @@
       <file leaf-file-name="clientform.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/client/form/clientform.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/collections/client/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/development/settings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14614344" vertical-offset="0" max-vertical-offset="739">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="env.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/development/env.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="126">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.meteor/packages">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/router/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/publish/client/client.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-              <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -361,8 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/router/routers.js" />
-        <option value="$PROJECT_DIR$/client/core/sidebar/sidebar.js" />
         <option value="$PROJECT_DIR$/client/core/sidebar/sidebar.html" />
         <option value="$PROJECT_DIR$/client/core/header/header.html" />
         <option value="$PROJECT_DIR$/client/stlylesheets/theme-override.import.less" />
@@ -383,7 +173,6 @@
         <option value="$PROJECT_DIR$/client/stlylesheets/less/themes/abstract/theme.less" />
         <option value="$PROJECT_DIR$/client/stlylesheets/less/modules/z_index.less" />
         <option value="$PROJECT_DIR$/client/stlylesheets/less/themes/calendar/theme.less" />
-        <option value="$PROJECT_DIR$/.meteor/packages" />
         <option value="$PROJECT_DIR$/client/app.html" />
         <option value="$PROJECT_DIR$/packages/pages-frontend/package.js" />
         <option value="$PROJECT_DIR$/client/router/contact.js" />
@@ -401,24 +190,27 @@
         <option value="$PROJECT_DIR$/client/core/main/nav.html" />
         <option value="$PROJECT_DIR$/client/stlylesheets/css/pages.css" />
         <option value="$PROJECT_DIR$/client/components/contact/contact.html" />
-        <option value="$PROJECT_DIR$/config/development/env.sh" />
-        <option value="$PROJECT_DIR$/config/development/settings.json" />
         <option value="$PROJECT_DIR$/.meteor/release" />
-        <option value="$PROJECT_DIR$/client/router/client.js" />
-        <option value="$PROJECT_DIR$/client/components/client/form/clientform.js" />
         <option value="$PROJECT_DIR$/client/components/client/client.js" />
         <option value="$PROJECT_DIR$/client/core/main/footer.html" />
         <option value="$PROJECT_DIR$/client/components/client/client.html" />
         <option value="$PROJECT_DIR$/client/components/dashboard/dashboard.html" />
         <option value="$PROJECT_DIR$/client/core/layouts/master_layout.html" />
         <option value="$PROJECT_DIR$/client/components/client/form/clientForm.html" />
+        <option value="$PROJECT_DIR$/client/components/client/form/clientform.js" />
+        <option value="$PROJECT_DIR$/server/publish/client/client.js" />
+        <option value="$PROJECT_DIR$/.meteor/packages" />
+        <option value="$PROJECT_DIR$/client/router/client.js" />
+        <option value="$PROJECT_DIR$/lib/collections/client/client.js" />
+        <option value="$PROJECT_DIR$/config/development/settings.json" />
+        <option value="$PROJECT_DIR$/config/development/env.sh" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="56" />
     <option name="y" value="30" />
-    <option name="width" value="1864" />
+    <option name="width" value="932" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -449,6 +241,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -466,40 +260,16 @@
               <option name="myItemId" value="testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
+              <option name="myItemId" value="publish" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -513,19 +283,71 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="avatars" />
+              <option name="myItemId" value="collections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,51 +379,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
+              <option name="myItemId" value="router" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -641,14 +419,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="form" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -922,14 +724,15 @@
       <workItem from="1460011125445" duration="748000" />
       <workItem from="1460471115765" duration="1074000" />
       <workItem from="1460472672860" duration="9966000" />
+      <workItem from="1460522053661" duration="3817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49111000" />
+    <option name="totallyTimeSpent" value="52928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="30" width="1864" height="1050" extended-state="6" />
+    <frame x="56" y="30" width="932" height="1050" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -945,7 +748,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17458564" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35990888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -979,27 +782,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/packages">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46779662" vertical-offset="0" max-vertical-offset="885">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/core/header/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52071005" vertical-offset="622" max-vertical-offset="1494">
@@ -1189,35 +971,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/development/env.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
-          <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/development/settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/router/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packages/pages-frontend/stylesheets/pages-frontend/imports/less/pages.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.407408" vertical-offset="79" max-vertical-offset="936">
           <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1225,7 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55" vertical-offset="33" max-vertical-offset="5868">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.04" vertical-offset="33" max-vertical-offset="13068">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,7 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="872">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1257,7 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5868">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="872">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1273,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45412844" vertical-offset="28350" max-vertical-offset="157104">
           <caret line="1597" column="21" selection-start-line="1597" selection-start-column="21" selection-end-line="1597" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1281,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,15 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.020338982" vertical-offset="216" max-vertical-offset="1584">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/client/form/clientform.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,7 +1051,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/core/main/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="414">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="414">
           <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
           <folding />
         </state>
@@ -1327,12 +1067,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/client/client.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.666666" vertical-offset="216" max-vertical-offset="1386">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1386">
           <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#section#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1340,17 +1077,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding>
-            <element signature="tag#section#0;tag#template#0" expanded="false" />
-            <element signature="tag#section#1;tag#template#0" expanded="false" />
-            <element signature="tag#section#2;tag#template#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/core/layouts/master_layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
           <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding />
         </state>
@@ -1358,11 +1091,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/client/form/clientForm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021301774" vertical-offset="54" max-vertical-offset="1242">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="1206">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/client/form/clientform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.meteor/packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/router/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/publish/client/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="766">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/collections/client/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/development/env.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="126">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/development/settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14614344" vertical-offset="0" max-vertical-offset="739">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

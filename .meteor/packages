@@ -23,3 +23,5 @@ standard-minifier-js
 less
 xcubeio:pages-frontend
 fortawesome:fontawesome
+patrickml:swal
+reactive-var
