@@ -1,0 +1,50 @@
+<template name="Vendor">
+
+  <section class="hbox stretch " style="padding-top: 88px;">
+
+      <section class="vbox">
+
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="" data-pages="parallax">
+                 <div class="container-fluid container-fixed-lg sm-p-l-20 sm-p-r-20">
+                   <form class="navbar-form navbar-right hidden-xs" role="search">
+                     <div class="form-group ">
+                       <div class="input-group ">
+                         <input type="text" class="form-control" xsearch="labour_list" placeholder="Carian..">
+                          <span class="input-group-addon primary cursor">
+                            <i class="fa fa-search "></i>
+                          </span>
+                          <span xaction="add" class="input-group-addon success cursor">
+                            <i class="fa fa-plus"></i>
+                          </span>
+                       </div>
+                      </div>
+                   </form>
+                 </div>
+                <div class="container-fluid container-fixed-lg ">
+                senarai
+                   <br>
+                  <hr style="margin-top: 2px;">
+                  <div class="col-sm-12">
+                      {{#each .}}
+                    <div class="col-md-3">
+                      <div class="panel ">
+                        {{Name}}
+                        {{website}}
+                        {{note}}
+                      </div>
+                    </div>
+                    {{/each}}
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+  </section>
+  {{> LookupAddVendor}}
+</template>

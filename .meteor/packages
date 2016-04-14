@@ -25,3 +25,4 @@ xcubeio:pages-frontend
 fortawesome:fontawesome
 patrickml:swal
 reactive-var
+momentjs:moment

@@ -1,3 +1,5 @@
-/**
- * Created by tunamin on 14/04/2016.
- */
+Meteor.publish('support' , function (option){
+
+	return Support.find()
+
+})
